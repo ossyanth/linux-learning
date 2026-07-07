@@ -1,0 +1,10 @@
+Linux Learning Notes
+
+Day 1
+
+Commands learned:
+pwd
+ls
+cd
+mkdir
+touch
