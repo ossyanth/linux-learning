@@ -1,32 +1,39 @@
-# Linux Learning
+# Linux Practice
 
-This repository documents my journey learning Linux as part of my roadmap towards becoming a Cloud Engineer.
+This repository contains my Linux notes, Bash scripts and practical exercises completed while building the Linux skills required for Cloud Engineering.
 
-## Goals
+The focus is on practical system administration, command-line proficiency and automation.
 
-- Learn Linux fundamentals
-- Build strong command-line skills
-- Learn Bash scripting
-- Prepare for AWS, Docker and Kubernetes
-- Build a portfolio for Cloud Engineering internships
+## Skills Covered
+
+- Linux filesystem navigation
+- File and directory management
+- Permissions and ownership
+- User and group management
+- Process management
+- Bash scripting
+- Git and GitHub workflow
 
 ## Progress
 
-### Week 1
-- [x] Installed Ubuntu on WSL
-- [x] Connected GitHub to Linux
-- [x] Learned basic navigation
-- [x] Created first repository
+## Completed
+
+- Linux filesystem navigation
+- File permissions
+- User and group management
+- Process management
+- Background jobs
 
 ## Repository Structure
 
 ```
-linux-learning/
-├── notes/
-├── bash/
-├── exercises/
-├── screenshots/
-└── projects/
+linux-practice/
+
+notes/
+scripts/
+projects/
+screenshots/
+README.md
 ```
 
 ## Technologies
