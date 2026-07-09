@@ -1,60 +1,92 @@
-# Linux Learning
+# Linux Practice
 
-This repository documents my journey learning Linux as part of my roadmap towards becoming a Cloud Engineer.
+This repository contains my Linux notes, Bash scripts and practical exercises completed while building the Linux skills required for Cloud Engineering.
 
-## Goals
+The focus is on practical Linux system administration, command-line proficiency, process management and Bash scripting. 
 
-- Learn Linux fundamentals
-- Build strong command-line skills
-- Learn Bash scripting
-- Prepare for AWS, Docker and Kubernetes
-- Build a portfolio for Cloud Engineering internships
+---
+
+## Skills Covered
+
+- Linux filesystem navigation
+- File and directory management
+- File permissions and ownership
+- User and group management
+- Process management
+- Background jobs
+- Basic Bash scripting
+- Git and GitHub workflow
+- Working with Ubuntu on WSL
+
+---
 
 ## Progress
 
-### Week 1 - Linux Fundamentals
+### Linux Fundamentals
+- [x] Linux filesystem navigation
+- [x] File operations
+- [x] Files and directories
+- [x] Viewing and comparing file contents
+- [x] File permissions
+- [x] File ownership
+- [x] User and group management
+- [x] User account management
+- [x] Process management
+- [x] Background job management
 
-#### Environment Setup
-- [x] Installed Ubuntu on WSL
-- [x] Connected GitHub to Linux
-- [x] Created first repository
-- [x] Made first commit and push
+### Development Environment
+- [x] Installed Ubuntu on WSL2
+- [x] Configured Git
+- [x] Connected GitHub
+- [x] Set up Visual Studio Code with WSL
+- [x] Created first Git repository
+- [x] Performed commits and pushes using Git
 
-#### LabEx
-- [x] Your First Linux Lab
-- [x] Display User and Group Information
-- [ ] Basic File Operations
-- [ ] Files and Directories
-- [ ] File Contents and Comparing
-- [ ] The Manuscript Mystery
-- [ ] Permissions of Files
+### Bash Scripts
+- [x] backup.sh
+- [x] create_project.sh
+- [x] process_check.sh
 
-#### Linux Commands Learned
-- [x] pwd
-- [x] ls
-- [x] ls -la
-- [x] cd
-- [x] mkdir
-- [x] touch
-- [x] whoami
-- [x] id
-- [x] groups
-
+---
 
 ## Repository Structure
 
-```
+```text
 linux-learning/
-├── notes/
 ├── bash/
 ├── exercises/
+├── notes/
+├── projects/
 ├── screenshots/
-└── projects/
+└── README.md
 ```
+
+---
 
 ## Technologies
 
 - Ubuntu
 - WSL2
+- Bash
 - Git
 - GitHub
+- Visual Studio Code
+
+---
+
+## Next Steps
+
+- Networking fundamentals (Professor Messer Network+)
+- OverTheWire Bandit
+- Python scripting
+- AWS Cloud Practitioner
+- Terraform
+- Docker
+
+---
+
+## Goal
+
+Develop practical Linux administration and command-line skills that will support future work with AWS, Docker, Terraform and cloud infrastructure.
+
+This repository will continue to grow as I build more Linux and Bash experience throughout my Cloud Engineering roadmap.
