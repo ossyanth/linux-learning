@@ -1,4 +1,4 @@
-# Linux Practice
+# Linux Learning
 
 This repository contains my Linux notes, Bash scripts and practical exercises completed while building the Linux skills required for Cloud Engineering.
 
@@ -53,11 +53,11 @@ The focus is on practical Linux system administration, command-line proficiency,
 
 ```text
 linux-learning/
-├── bash/
-├── exercises/
 ├── notes/
-├── projects/
-├── screenshots/
+├── scripts/
+│   ├── backup.sh
+│   ├── create_project.sh
+│   └── process_check.sh
 └── README.md
 ```
 
